@@ -13,7 +13,7 @@ Hello! I'm Leanne 👋
 
 ### Recent Projects:
 
-### [Intro to RAG Pipeline Projecr](https://github.com/DrLMB/intro_to_rag_project)
+### [Intro to RAG Pipeline Project](https://github.com/DrLMB/intro_to_rag_project)
 
 * **Summary:** A Python-based Retrieval-Augmented Generation (RAG) system designed to extract and analyze information from PDF documents. 
 * **Built With:** Python | ChromaDB | OpenAI API Integration
