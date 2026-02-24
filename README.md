@@ -3,6 +3,7 @@ Hello! I'm Leanne 👋
 * Career changer, with a background in university teaching and research
 * Graduate of Northcoders' Data Engineering Bootcamp (2025)
 * Cajigo 100 Women in Tech mentee, Cohort 4
+* Women Love AI Ambassador
 * Skills in Python, SQL, AWS, ETL pipeline development, and Data Architecture
 * Speaker and author
 
