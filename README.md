@@ -1,5 +1,5 @@
 Hello! I'm Leanne 👋 
-* Software/Data Engineer
+* Data/Software Engineer
 * Career changer, with a background in university teaching and research
 * Graduate of Northcoders' Data Engineering Bootcamp (2025)
 * Cajigo 100 Women in Tech mentee, Cohort 4
