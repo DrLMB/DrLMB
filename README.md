@@ -1,5 +1,5 @@
 Hello! I'm Leanne 👋 
-* Data/Software Engineer
+* Associate Data Engineer
 * Career changer, with a background in university teaching and research
 * Graduate of Northcoders' Data Engineering Bootcamp (2025)
 * Cajigo 100 Women in Tech mentee, Cohort 4
@@ -7,7 +7,7 @@ Hello! I'm Leanne 👋
 * Skills in Python, SQL, AWS, ETL pipeline development, and Data Architecture
 * Speaker and author
 
-- 🌱 I’m currently learning TypeScript, data visualisation with Matplotlib and Power BI, honing my skills in data architecture and data analysis with Pandas, and beginning mobile development with Swift and SwiftUI 
+- 🌱 I’m currently learning Java, observability, and honing my skills in data architecture
 - 📫 How to reach me: [leannembibby@gmail.com](mailto:leannembibby@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/dr-leanne-bibby/)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm a former university academic and an expert in historical fiction
